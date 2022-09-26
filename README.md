@@ -1,15 +1,15 @@
 Work !!!
 
 -> Server:
-Prisma
-SQLite
+Prisma<br />
+SQLite<br />
 
 
 -> Web
-React
-Typescript
-Tailwind 
+React<br />
+Typescript<br />
+Tailwind <br />
 
 -> Mobile:
-React Native
-styled-components
+React Native<br />
+styled-components<br />
