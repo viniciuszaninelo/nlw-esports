@@ -1,4 +1,4 @@
-import express, { json, request } from 'express'
+import express from 'express'
 
 const app = express()
 
@@ -9,7 +9,7 @@ app.get('/games', (req,res) => {
 });
 
 app.post('/ads', (req, res) => {
-  return res.json([]);
+  return res.status(201).json([]);
 });
 
 app.get('/games/:id/ads', (req, res) => {
