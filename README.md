@@ -13,3 +13,6 @@ Tailwind <br />
 -> Mobile:<br />
 React Native<br />
 styled-components<br />
+
+
+-> Adicionar validação, usando a biblioteca "Zod" []
